@@ -34,5 +34,5 @@
 * [合作伙伴介绍](china-migration-partners.md)
 * [Azure 海外云用户迁移指南](https://github.com/Azure/Azure-Migration-Guidance)
 
-# 联系我们  
+## 联系我们  
 有关此文档的任何相关问题，或有关 Azure 区域迁移的需求，请联系我们(chinamigrationpb@microsoft.com)进行咨询。
