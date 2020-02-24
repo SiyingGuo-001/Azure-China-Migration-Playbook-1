@@ -2,10 +2,8 @@
 title: 迁移容器资源
 description: This article provides the guidance and tools on migrating container resources.
 author: msfrankchen
-
 ms.service: china 
 ms.topic: migrate
-layout: ContentPage 
 ms.date: 09/06/2019
 ms.author: frankch
 
