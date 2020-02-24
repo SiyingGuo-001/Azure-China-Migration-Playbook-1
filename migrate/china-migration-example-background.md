@@ -4,7 +4,6 @@ description: This article describes the background of Contoso Migration Program.
 author: siguo
 ms.service: china 
 ms.topic: migrate
-layout: ContentPage 
 ms.date: 01/17/2020
 ms.author: siguo
 
