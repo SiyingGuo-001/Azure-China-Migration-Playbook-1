@@ -2,10 +2,8 @@
 title: 迁移集成资源
 description: This article provides the guidance and tools on migrating integration resources to targey Azure region.
 author: msfrankchen
-
 ms.service: china 
 ms.topic: migrate
-layout: ContentPage 
 ms.date: 09/29/2019
 ms.author: frankch
 
