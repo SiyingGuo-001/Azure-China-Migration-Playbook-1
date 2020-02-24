@@ -30,7 +30,7 @@
 
 ## 资源
 
-* [迁移工具介绍](china-migration-guidance-overview.md)
+* [迁移工具介绍](china-migration-tools-and-guidance.md)
 * [合作伙伴介绍](china-migration-partners.md)
 * [Azure 海外云用户迁移指南](https://github.com/Azure/Azure-Migration-Guidance)
 
