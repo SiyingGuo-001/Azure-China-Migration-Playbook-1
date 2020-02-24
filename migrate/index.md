@@ -3,14 +3,14 @@
 
 本指南用于指导 Azure 中国云用户安全、高效地在中国的多个区域间进行端到端的资源迁移。本指南包含以下内容：
 
-## 概念
-* [区域选择指南](china-migration-region-strategy.md)
-* [迁移过程详解](china-migration-process.md)  
-
 ## 教程（客户搬迁示范案例）
 * [客户搬迁背景介绍](./china-migration-example-background.md)
 * [搬迁准备过程](./china-migration-example-prepare.md)
 * [计划、搬迁、验收](./china-migration-example-migrate.md)
+
+## 概念
+* [区域选择指南](china-migration-region-strategy.md)
+* [迁移过程详解](china-migration-process.md)  
 
 ##  操作方法指南
 
