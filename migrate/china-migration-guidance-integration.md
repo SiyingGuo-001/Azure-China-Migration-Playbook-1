@@ -69,5 +69,4 @@ Azure 计划程序[将于2019年9月30日停用](https://azure.microsoft.com/zh-
 
 请参阅[迁移 Web 资源](china-migration-guidance-web.md)中的 **API管理**章节。
 
-## 事件网格
-(place holder)
+
