@@ -4,7 +4,6 @@ description: This article describes detailed steps to migrate resources of Conto
 author: siguo
 ms.service: china 
 ms.topic: migrate
-layout: ContentPage 
 ms.date: 02/19/2020
 ms.author: siguo
 
