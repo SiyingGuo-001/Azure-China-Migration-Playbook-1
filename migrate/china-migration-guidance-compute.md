@@ -2,10 +2,8 @@
 title: 迁移计算资源
 description: This article provides the guidance and tools on migrating compute resourse.
 author: msfrankchen
-
 ms.service: china 
 ms.topic: migrate
-layout: ContentPage 
 ms.date: 09/26/2019
 ms.author: frankch
 
