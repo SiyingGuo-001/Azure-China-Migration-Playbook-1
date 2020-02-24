@@ -2,10 +2,8 @@
 title: 迁移工具介绍
 description: This article provides the tools on migrating resources between different Azure China regions.
 author: msfrankchen
-
 ms.service: china 
 ms.topic: migrate
-layout: ContentPage 
 ms.date: 09/26/2019
 ms.author: frankch
 
