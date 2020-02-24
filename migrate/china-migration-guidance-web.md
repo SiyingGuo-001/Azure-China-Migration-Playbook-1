@@ -2,10 +2,8 @@
 title: 迁移 Web 资源
 description: This article provides the guidance and tools on migrating Web resources.
 author: msfrankchen
-
 ms.service: china 
 ms.topic: migrate
-layout: ContentPage 
 ms.date: 09/16/2019
 ms.author: frankch
 
