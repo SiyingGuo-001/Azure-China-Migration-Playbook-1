@@ -2,10 +2,8 @@
 title: 迁移过程
 description: This article describes four phases and detailed steps to migrate resources between different Azure China regions.
 author: msfrankchen
-
 ms.service: china 
 ms.topic: migrate
-layout: ContentPage 
 ms.date: 09/03/2019
 ms.author: frankch
 
