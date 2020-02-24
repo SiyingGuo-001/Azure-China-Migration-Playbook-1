@@ -24,13 +24,14 @@ AzCopy 使用 Source 和 Dest 来表示 URI。
 您还需要使用 Azure Active Directory 或 SAS 令牌进行身份验证才能访问 Azure 存储帐户。有关如何进行身份验证的说明，请参阅[身份验证选项](https://docs.azure.cn/zh-cn/storage/common/storage-use-azcopy-v10#authentication-options)。
 
 例如：  
-URI part | example value
+
+URI 部分 | 示例值
 -------- | --------------
 源 storageAccount | `migratetest`
-源 container | `vhds`
+源容器 | `vhds`
 源 blob | `vm-121314.vhd`
 目标 storageAccount | `migratetarget`
-目标 container | `targetcontainer`
+目标容器 | `targetcontainer`
 
 此命令可以实现跨 Azure 区域的虚拟硬盘复制：
 ```cmd
